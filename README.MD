@@ -1,1 +1,1 @@
-This will include some examples on go and postgresql by meand of https://github.com/jackc/pgx
+This will include some examples f Go and Postgresql by means of https://github.com/jackc/pgx
